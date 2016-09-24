@@ -1,6 +1,6 @@
-#title, artist, date released
+#title|artist|date released
 #one suggestion per line
 #use date format YEAR MONTH DAY as in "1999 01 01"
 #for modern era, suggest albums instead of individual songs
 
-Lost in The Dream, The War on Drugs, 2014 03 18
+Lost in The Dream|The War on Drugs|2014 03 18
